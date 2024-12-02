@@ -1,0 +1,20 @@
+[
+    {
+        "question": "U tube manometer is used to measure",
+        "qid": 1,
+        "option_a": "Absolute Pressure",
+        "option_b": "Difference of Pressure between two points",
+        "option_c": "Gauge Pressure",
+        "option_d": "Vacuum Pressure",
+        "correct_option": "b"
+    },
+    {
+        "question": "Pressure difference measured by U tube manometer when both the points are at same height is given by",
+        "qid": 2,
+        "option_a": "g*h(&rho;<sub>1</sub>- &rho;<sub>2</sub>)",
+        "option_b": "&rho;<sub>1</sub>* g*h<sub>1</sub>- &rho;<sub>2</sub>* g*h<sub>2</sub>",
+        "option_c": "g*h<sub>1</sub>",
+        "option_d": "&rho;*g/h<sub>2</sub>",
+        "correct_option": "a"
+    }
+]
