@@ -1,0 +1,21 @@
+[
+
+    {
+        "question": "Pipe A contains fluid of specific gravity 0.7 and Pipe B contains fluid of specific gravity 0.8. Manometeric fluid is mercury of specific gravity 13.6. Find pressure difference between two pipes. Take the values of h = 11cm, x = 10cm, y = 18cm.",
+        "qid": 1,
+        "option_a": "14990.54 N/m<sup>2</sup>",
+        "option_b": "15234.12 N/m<sup>2</sup>",
+        "option_c": "14646.33 N/m<sup>2</sup>",
+        "option_d": "16878.45 N/m<sup>2</sup>",
+        "correct_option": "c"
+    },
+    {
+        "question": "Pipe A contains fluid of specific gravity 0.7 and Pipe B contains fluid of specific gravity 0.8. Manometeric fluid is mercury of specific gravity 13.6. Find pressure difference between two pipes. Take the values of h = 11cm, x = 12cm, y = 15cm.",
+        "qid": 2,
+        "option_a": "14273.55 N/m<sup>2</sup>",
+        "option_b": "14897.78 N/m<sup>2</sup>",
+        "option_c": "13244.11 N/m<sup>2</sup>",
+        "option_d": "15997.34 N/m<sup>2</sup>",
+        "correct_option": "a"
+    }
+]
